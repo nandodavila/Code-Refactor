@@ -32,10 +32,6 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
 nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -69,7 +65,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
